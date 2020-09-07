@@ -12,6 +12,3 @@ Here in this model we got 65% test accuracy and 86% train accuracy
 
 Using GPU in google colab the whole project is done.
 
-One test of model shown below:
-![](https://github.com/souvik2019/Face-Emotion-Recognition/blob/master/image1.jpg)
-
